@@ -158,30 +158,26 @@ GeoVault-FullStack/
 
 <img width="300" height="265" alt="image" src="https://github.com/user-attachments/assets/0c471d24-8374-49d7-add1-74ebd721b3f2" />
 
-
 ### Dashboard
 
-(Add screenshot here)
+<img width="975" height="431" alt="image" src="https://github.com/user-attachments/assets/e44ca1d2-a021-4054-aa5b-1e4b1f97da38" />
 
-### Samples Management
+### Samples Management and AI Summary Modal
 
-(Add screenshot here)
-
-### AI Summary Modal
-
-(Add screenshot here)
+<img width="975" height="433" alt="image" src="https://github.com/user-attachments/assets/c0a7d0d7-9ce0-46b2-aae9-672b3542be74" />
 
 ### Reports Management
 
-(Add screenshot here)
+<img width="975" height="165" alt="image" src="https://github.com/user-attachments/assets/89f84227-2b34-49cd-a4b3-45363b78472a" />
 
 ### Interactive Map
 
-(Add screenshot here)
+<img width="975" height="429" alt="image" src="https://github.com/user-attachments/assets/e287c966-0163-46f7-a311-581768573b79" />
 
 ### AI Insights
 
-(Add screenshot here)
+<img width="975" height="416" alt="image" src="https://github.com/user-attachments/assets/e13904dc-05aa-4b8d-b41d-996aef440867" />
+
 
 ---
 
