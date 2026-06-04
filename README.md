@@ -178,7 +178,25 @@ GeoVault-FullStack/
 
 ![AI Insights](screenshots/ai_insights.png)
 
+## Demo Access
 
+Use the following credentials to explore GeoVault:
+
+Email: changu@gmail.com
+
+Password: welcome
+
+## Sample Data
+
+A sample geological dataset is provided in:
+
+sample-data/geological_samples.csv
+
+Users can upload this CSV through the application to test:
+- Sample imports
+- Dashboard analytics
+- AI summaries
+- Mapping features
 ---
 
 ## Installation
