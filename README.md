@@ -156,7 +156,8 @@ GeoVault-FullStack/
 
 ### Login Page
 
-(Add screenshot here)
+<img width="300" height="265" alt="image" src="https://github.com/user-attachments/assets/0c471d24-8374-49d7-add1-74ebd721b3f2" />
+
 
 ### Dashboard
 
