@@ -1,0 +1,38 @@
+services:
+
+  api:
+    build: .
+    container_name: geovault-api
+
+    ports:
+      - "5000:5000"
+
+    volumes:
+      - ./uploads:/app/uploads
+
+    depends_on:
+      - postgres
+
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@postgres:5432/geovault
+
+  postgres:
+    image: postgres:16
+
+    container_name: geovault-db
+
+    restart: always
+
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: geovault
+
+    ports:
+      - "5432:5432"
+
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
